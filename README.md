@@ -1,8 +1,12 @@
 # Jonny Pickard
 
 A crazily creative concoction of art and science with a passion for technology.
-I've studied a lot, obtaining a degree in Biology and managing to learn how to code in 3 months.
+I've studied a lot, obtaining a degree in Biology and managing to learn to code in 3 months.
 Now i'd like to cement my knowledge by working on a websites codebase bringing value in the process.
+
+## Code Examples
+
+- My final project at Makers Academy - [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence)
 
 ## Skills
 
