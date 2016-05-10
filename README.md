@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A crazily creative concoction of art and science with a passion for technology. I've studied a lot, obtaining a degree in Biology and managed to learn to code in 3 months. Now I'm aiming to turn my passion into a career by working on a website codebase bringing value in the process.
+A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career by building up websites, aiming to bring value in the process.
 
 ## Code Examples
 
@@ -29,7 +29,11 @@ A crazily creative concoction of art and science with a passion for technology. 
 
 ## Experience
 
-**Costa Coffee Richmond** - (October 2014 - July 2015)
+**Codebar** -(April 2016)
+
+*Coach*
+
+**Costa Coffee** - (October 2014 - July 2015)
 
 *Assistant Manager.*
 
