@@ -5,6 +5,7 @@ A creative concoction of art, music and science with a passion for technology. I
 ## Code Examples
 
 - [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) - My final project at Makers Academy.
+- [Miaowster](https://github.com/JonnyPickard/miaowster) - Social picture sharing for cats.
 
 ## Education
 
