@@ -30,7 +30,7 @@ A creative concoction of art, music and science with a passion for technology. I
 
 ## Experience
 
-**Codebar** -(April 2016)
+**Codebar** - (April 2016)
 
 *Coach*
 
