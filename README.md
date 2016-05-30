@@ -6,6 +6,7 @@ A creative concoction of art, music and science with a passion for technology. I
 
 - [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) - My final project at Makers Academy.
 - [Miaowster](https://github.com/JonnyPickard/miaowster) - Social picture sharing for cats.
+- [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) - An example of hosting and interacting with an API using ruby.
 
 ## Education
 
