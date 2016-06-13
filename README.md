@@ -4,10 +4,12 @@ A creative concoction of art, music and science with a passion for technology. I
 
 ## Code Examples
 
-- [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) - My final project at Makers Academy.
-- [Miaowster](https://github.com/JonnyPickard/miaowster) - Social picture sharing for cats.
-- [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) - An example of hosting and interacting with an API using ruby.
-- [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) - A more computer science based example. Finding the order of an alien alphabet given the alien dictonary.
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
+| [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
+| [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
+| [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python |
 
 ## Education
 
