@@ -53,6 +53,18 @@ A creative concoction of art, music and science with a passion for technology. I
 
 ## Skills
 
+#### Coding
+
+- Ruby - Rails, RSpec 
+- JavaScript - Node.js, AngularJS, Karma, Protractor, Jasmine 
+- Python - Reached stage 3 on googles Foo.Bar, unittest
+- Swift - Xcode
+- Git - Heroku
+- SQL
+- Databases - postresql, sqlite3, mongoDB
+- HTML5
+- CSS3
+
 #### Team work
 
 - Coding projects.
