@@ -54,19 +54,21 @@ A creative concoction of art, music and science with a passion for technology. I
 
 *Film Publishing.*
 
-## Skills
+## Code Related Skills
 
-#### Coding
+| Technology |  |
+|------------|----------|
+| Ruby | Rails, RSpec |
+| JavaScript | Node.js, AngularJS, Karma, Protractor, Jasmine |
+| Python | Reached stage 3 on googles Foo.Bar, unittest |
+| Swift | Xcode |
+| Git | Heroku |
+| Databases | postresql, sqlite3, mongoDB |
+| SQL | ORM's (ActiveRecord, DataMapper, etc..) |
+| HTML5 | Layout, Design |
+| CSS3  | Bootstrap |
 
-- Ruby - Rails, RSpec 
-- JavaScript - Node.js, AngularJS, Karma, Protractor, Jasmine 
-- Python - Reached stage 3 on googles Foo.Bar, unittest
-- Swift - Xcode
-- Git - Heroku
-- SQL
-- Databases - postresql, sqlite3, mongoDB
-- HTML5
-- CSS3
+## Other Skills
 
 #### Team work
 
