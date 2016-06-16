@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career by building up websites, aiming to bring value in the process.
+A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career working on websites, web apps and hopefully eventually gaming. 
 
 ## Code Examples
 
