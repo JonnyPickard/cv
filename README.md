@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career working on websites, web apps and hopefully eventually gaming. 
+A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career working on websites, apps, web apps and hopefully at some point gaming. 
 
 ## Code Examples
 
@@ -82,5 +82,5 @@ A creative concoction of art, music and science with a passion for technology. I
 
 #### Music
 
-- Music production with various different DAW’s
-- Mixing and Mastering of electronic music.
+- Music production/ sound engineering with various different DAW’s.
+- Mixing and mastering of multiple genres of music.
