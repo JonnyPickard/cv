@@ -34,6 +34,10 @@ A creative concoction of art, music and science with a passion for technology. I
 
 ## Experience
 
+**TransparencyData Ltd** - (June 2016 - Present)
+
+*IOS Developer*
+
 **Codebar** - (April 2016)
 
 *Coach*
