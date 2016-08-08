@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A creative concoction of art, music and science with a passion for technology. I obtained a degree in Biology then completely switched direction by learning how to code. Now I'm aiming to turn my passion into a career working on websites, apps, web apps and hopefully at some point gaming. 
+A creative, confident and ambitios problem solver with a passion for web development seeking a junior developer position in an innovative and dynamic online business. With experience in app development, coding, pair programming, source control and a strong interest in technology, user experience and innovative web development. Proven track record of completing projects to a high level for Makers Academy and TransparencyData.  
 
 ## Code Examples
 
