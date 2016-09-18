@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A creative, confident and ambitios problem solver with a passion for web development seeking a junior developer position in an innovative and dynamic online business. With experience in app development, coding, pair programming, source control and a strong interest in technology, user experience and innovative web development. Proven track record of completing projects to a high level for Makers Academy and TransparencyData.  
+A creative, confident and ambitious problem solver with a passion for web development seeking a junior developer position in an innovative and dynamic online business. With experience in app development, coding, pair programming, source control and a strong interest in technology, user experience and innovative web development. Proven track record of completing projects to high level for Makers Academy and TransparencyData.  
 
 ## Code Examples
 
@@ -12,26 +12,17 @@ A creative, confident and ambitios problem solver with a passion for web develop
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
 | [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python |
 
-## Education
+## Code Skills
 
-#### Makers Academy -           (January 2016 - April 2016)
-
-- Curiosity and hungry passion for code.
-- Independent learner and problem-solver.
-- OOP, TDD, SOLID, MVC, DDD.
-- Software Craftsmanship.
-- Ruby, Rails, Javascript, Node.js, Angular.js.
-- Rspec, Jasmine, Karma, Protractor.
-
-#### University of Portsmouth - (September 2011 - June 2014)
-
-*Biological Sciences (BSc) - 2:1*
-- Genetics, Developmental Biochemistry and Marine.
-- Research Skills. Scientific writing. Logical thinking and an eye for detail.
-
-#### Latymer Upper School -     (September 2004 - June 2010)
-
-*A levels in Art, Biology, PE. As in Maths.*
+| Technology |  |
+|------------|----------|
+| Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
+| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, npm, bcrypt. |
+| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, NPM, devise, OAuth. |
+| Python | unittest |
+| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch,  ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
+| Front end | HTML5, CSS3, Twitter Bootstrap, Photoshop. |
+| Other services | Git, Heroku, WaffleIO, AWS, BitBucket. |
 
 ## Experience
 
@@ -59,17 +50,27 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 *Film Publishing.*
 
-## Code Skills
 
-| Technology |  |
-|------------|----------|
-| Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
-| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, npm, bcrypt. |
-| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, NPM, devise, OAuth. |
-| Python | unittest |
-| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch,  ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
-| Front end | HTML5, CSS3, Twitter Bootstrap, Photoshop. |
-| Other services | Git, Heroku, WaffleIO, AWS, BitBucket. |
+## Education
+
+#### Makers Academy -           (January 2016 - April 2016)
+
+- Curiosity and hungry passion for code.
+- Independent learner and problem-solver.
+- OOP, TDD, SOLID, MVC, DDD.
+- Software Craftsmanship.
+- Ruby, Rails, Javascript, Node.js, Angular.js.
+- Rspec, Jasmine, Karma, Protractor.
+
+#### University of Portsmouth - (September 2011 - June 2014)
+
+*Biological Sciences (BSc) - 2:1*
+- Genetics, Developmental Biochemistry and Marine.
+- Research Skills. Scientific writing. Logical thinking and an eye for detail.
+
+#### Latymer Upper School -     (September 2004 - June 2010)
+
+*A levels in Art, Biology, PE. As in Maths.*
 
 ## Other Skills
 
