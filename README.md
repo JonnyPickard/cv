@@ -6,7 +6,7 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
+|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
 | [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python |
@@ -58,19 +58,17 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 *Film Publishing.*
 
-## Code Related Skills
+## Code Skills
 
 | Technology |  |
 |------------|----------|
-| Ruby | Rails, RSpec |
-| JavaScript | Node.js, AngularJS, Karma, Protractor, Jasmine |
-| Python | Reached stage 3 on googles Foo.Bar, unittest |
-| Swift | Xcode |
-| Git | Heroku |
-| Databases | postresql, sqlite3, mongoDB |
-| SQL | ORM's (ActiveRecord, DataMapper, etc..) |
-| HTML5 | Layout, Design |
-| CSS3  | Bootstrap |
+| Swift | Xcode, XCTAssert, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON. |
+| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, npm, bcrypt. |
+| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, NPM, devise, OAuth. |
+| Python | unittest |
+| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch,  ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
+| Front end | HTML5, CSS3, Twitter Bootstrap, Photoshop. |
+| Other services | Git, Heroku, WaffleIO, AWS, BitBucket. |
 
 ## Other Skills
 
