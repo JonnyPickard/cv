@@ -6,6 +6,7 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+|[FoodHygiene - V3 (not yet released)](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Uses GPS/ 4G to pull data from the SOTD API providing the user with information on the surrounding restaurants food hygiene scores. Also contains options for custom searches etc. | Swift, Xcode, GoogleMapsSDK, XCTestCase |
 |[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
@@ -34,9 +35,9 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 ## Experience
 
-**TransparencyData Ltd** - (June 2016 - Present)
+**TransparencyData Ltd** - (June 2016 - September 2016)
 
-*IOS Developer*
+*Freelance IOS Developer - SOTD FoodHygiene app*
 
 **Codebar** - (April 2016)
 
@@ -62,7 +63,7 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 | Technology |  |
 |------------|----------|
-| Swift | Xcode, XCTAssert, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON. |
+| Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
 | JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, npm, bcrypt. |
 | Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, NPM, devise, OAuth. |
 | Python | unittest |
@@ -74,9 +75,9 @@ A creative, confident and ambitios problem solver with a passion for web develop
 
 #### Team work
 
-- Coding projects.
-- Rugby for University, Club and School.
-- Music projects/ collaborations.
+- Pair programming.
+- Rugby at a high level for University, Club and School.
+- Music collaborations.
 
 #### Music
 
