@@ -18,8 +18,8 @@ A creative, confident and ambitious problem solver with a passion for web develo
 | Technology |  |
 |------------|----------|
 | Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
-| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, npm, bcrypt. |
-| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, NPM, devise, OAuth. |
+| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, NPM, bcrypt. |
+| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, RVM, devise, OAuth. |
 | Python | unittest |
 | Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch,  ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
 | Front end | HTML5, CSS3, Twitter Bootstrap, Photoshop. |
