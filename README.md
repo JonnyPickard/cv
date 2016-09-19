@@ -7,6 +7,7 @@ A creative, confident and ambitious problem solver with a passion for web develo
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 |[FoodHygiene - V3 (not yet released)](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Uses GPS/ 4G to pull data from the SOTD API providing the user with information on the surrounding restaurants food hygiene scores. Also contains options for custom searches etc. | Swift, Xcode, GoogleMapsSDK, XCTestCase |
+|[Chatapp](https://github.com/JonnyPickard/chatapp-js)| The front end for a web chat app. | JS, NodeJS, ExpressJS, AngularJS and tested with protractor.|
 |[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
