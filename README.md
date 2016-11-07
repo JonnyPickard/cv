@@ -1,12 +1,12 @@
 # Jonny Pickard
 
-A creative, confident and ambitious problem solver with a passion for web development seeking a junior developer position in an innovative and dynamic online business. With experience in app development, coding, pair programming, source control and a strong interest in technology, user experience and innovative web development. Proven track record of completing projects to high level for Makers Academy and TransparencyData.  
+A highly passionate junior full stack web / mobile developer looking for a new role in an agile, test driven, team envi- ronement. With ever changing interests currently focused on JavaScript frame- works and Swift.
 
 ## Code Examples
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-|[FoodHygiene - V3 (not yet released)](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Uses GPS/ 4G to pull data from the SOTD API providing the user with information on the surrounding restaurants food hygiene scores. Also contains options for custom searches etc. | Swift, Xcode, GoogleMapsSDK, XCTestCase |
+|[FoodHygiene - V3 (not yet released)](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect. XCTestCase |
 |[Chatapp](https://github.com/JonnyPickard/chatapp-js)| The front end for a web chat app. | JS, NodeJS, ExpressJS, AngularJS and tested with protractor.|
 |[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
