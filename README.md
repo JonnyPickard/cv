@@ -11,7 +11,7 @@ A highly passionate junior full stack web / mobile developer looking for a new r
 |[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
-| [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python , testtunit |
+| [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python , unittest |
 
 ## Code Skills
 
