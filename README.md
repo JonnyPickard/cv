@@ -1,39 +1,37 @@
 # Jonny Pickard
 
-A highly passionate junior full stack web / mobile developer looking for a new role in an agile, test driven, team envi- ronement. With ever changing interests currently focused on JavaScript frame- works and Swift.
+A highly passionate junior full stack web / mobile developer looking for a new role in an agile, test driven, team envi- ronement. With multiple interests currently focused on JavaScript frameworks and TypeScript.
 
 ## Code Examples
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-|[FoodHygiene - V3 (not yet released)](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect. XCTestCase |
-|[Chatapp](https://github.com/JonnyPickard/chatapp-js)| The front end for a web chat app. | JS, NodeJS, ExpressJS, AngularJS and tested with protractor.|
-|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
+|[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect. XCTestCase |
+|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter keyword sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
 | [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
-| [Alien-alphabet](https://github.com/JonnyPickard/alien-alphabet) | A more computer science based example. Finding the order of an alien alphabet given the alien dictonary. | Python , unittest |
+|[Chatapp](https://github.com/JonnyPickard/chatapp-js/tree/front-end-angular-migration)| A web chat app. | JS, NodeJS, ExpressJS, AngularJS and tested with protractor.|
 
 ## Code Skills
 
-| Technology |  |
+| Technologies Used |  |
 |------------|----------|
 | Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
 | JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, NPM, bcrypt. |
 | Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, RVM, devise, OAuth. |
-| Python | unittest |
-| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch,  ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
-| Front end | HTML5, CSS3, Twitter Bootstrap, Photoshop. |
+| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch, ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
+| Front end | HTML5, CSS3, Twitter Bootstrap, JavaScript & jQuery.|
 | Other services | Git, Heroku, WaffleIO, AWS, BitBucket. |
 
 ## Experience
 
 **TransparencyData Ltd** - (June 2016 - September 2016)
 
-*Freelance IOS Developer - SOTD FoodHygiene app*
+*Remote freelance iOS Developer - SOTD FoodHygiene app*
 
 **Codebar** - (April 2016)
 
-*Coach*
+*Volunteer Coach in HTML, CSS, JavaScript & Swift.*
 
 **Costa Coffee** - (October 2014 - July 2015)
 
@@ -41,15 +39,15 @@ A highly passionate junior full stack web / mobile developer looking for a new r
 
 **I to I Research** - (September 2014)
 
-*Researcher.*
+*Investigator via survey distribution.*
 
 **Royal HaskoningDHV** - (July 2012)
 
-*Environmental consultancy.*
+*Environmental consultancy work experience.*
 
 **The Works Media Group** - (June 2009)
 
-*Film Publishing.*
+*Film Publishing work experience.*
 
 
 ## Education
@@ -85,3 +83,15 @@ A highly passionate junior full stack web / mobile developer looking for a new r
 
 - Music production/ sound engineering with various different DAW’s.
 - Mixing and mastering of multiple genres of music.
+
+#### Art / Design
+
+- Profecient with Adobe Photoshop and Illustrator.
+
+## Interests
+
+- Gym / Fitness / Weightlifting.
+- Socialising.
+- Electronic music production / Djing.
+- Gaming.
+- Rugby.
