@@ -1,6 +1,15 @@
 # Jonny Pickard
 
-A highly passionate junior full stack web / mobile developer looking for a new role in an agile, test driven, team envi- ronement. With multiple interests currently focused on JavaScript frameworks and TypeScript.
+A highly passionate junior full stack web / mobile developer looking for a new role in an agile, behaviour driven, team envi- ronment. With multiple interests currently focused on JavaScript frameworks and TypeScript.
+
+## Background
+
+Having always been massively interested in tech I found myself finishing a degree in Biology still never having had the chance to follow my passion. After months of learning small amounts of code in my spare time I decided a bootcamp was the way to go to accellerate the process massively. I worked towards going to Makers Academy where I learnt to code web technologies using best practices from the ground up. 
+
+After MA I undertook a Swift contract to build an iOS app called [Scores on the Doors](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8). The contract was an incredibly challenging being written in a relatively new language with no help from seniors. However, it eventually got completed and I can be proud to say that after even less than a year of coding I had managed to release a production iOS app.
+
+Working solo on the contract for a few months highlighted how important working in a team is for me. I'm now looking to progress into a team environment with oppourtunities to contribute to larger projects and recieve mentoring from seniors. 
+
 
 ## Code Examples
 
@@ -9,8 +18,6 @@ A highly passionate junior full stack web / mobile developer looking for a new r
 |[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect. XCTestCase |
 |[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter keyword sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
 | [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
-| [Jonnys-simple-api](https://github.com/JonnyPickard/simple-api) | An example of hosting and interacting with an API using ruby. | Ruby, Sinatra, Bootstrap |
-|[Chatapp](https://github.com/JonnyPickard/chatapp-js/tree/front-end-angular-migration)| A web chat app. | JS, NodeJS, ExpressJS, AngularJS and tested with protractor.|
 
 ## Code Skills
 
