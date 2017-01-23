@@ -8,7 +8,7 @@ Having always been massively interested in tech, particularly game mechanics and
 
 After MA I undertook a Swift contract to build an iOS app called [Scores on the Doors](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8). The contract was an incredibly challenging being written in a relatively new language with no help from seniors. However, it eventually got completed and I can be proud to say that after even less than a year of coding I had managed to release a production iOS app.
 
-Working solo on the contract for a few months highlighted how important working in a team is for me. I'm now looking to progress into a team environment, preferably doing full stack web using JavaScript, with oppourtunities to contribute to larger projects and recieve mentoring from seniors. 
+Working solo on the contract for a few months highlighted how important working in a team is for me. I'm now looking to progress into a team environment, preferably doing full stack web using JavaScript, with opportunities to contribute to larger projects and receive mentoring from seniors. 
 
 
 ## Code Examples
