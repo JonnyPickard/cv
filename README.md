@@ -1,6 +1,6 @@
 # Jonny Pickard
 
-A highly passionate junior full stack web / mobile developer looking for a new role in an agile, behaviour driven, team envi- ronment. With multiple interests currently focused on JavaScript frameworks and TypeScript.
+A highly passionate junior full stack web / mobile developer looking for a new role in an agile, behaviour driven, team environment. With multiple interests currently focused on JavaScript frameworks and TypeScript.
 
 ## Background
 
