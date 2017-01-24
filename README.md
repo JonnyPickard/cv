@@ -15,9 +15,10 @@ Working solo on the contract for a few months highlighted how important working 
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-|[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect. XCTestCase |
-|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter keyword sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap |
-| [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3. Bootstrap |
+|[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect, XCTestCase. |
+|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter keyword sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap. |
+|[gains](https://github.com/JonnyPickard/gains)| Instagram clone for gym goers. | NodeJS, Express, Mongodb/ Mongoose, Mocha, Chai, ZombieJS, Passport. |
+| [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3, Bootstrap. |
 
 ## Code Skills
 
