@@ -6,9 +6,9 @@ A highly passionate junior full stack web / mobile developer looking for a new r
 
 Having always been massively interested in tech, particularly game mechanics and apps, I found myself finishing a degree in Biology still never having had the chance to pursue my passion. After months of learning small amounts of code in my spare time I decided a bootcamp was the way to go in order to massively accelerate the process. I worked towards going to Makers Academy where I learnt to code web technologies using best practices from the ground up. 
 
-After MA I undertook a Swift contract to build an iOS app called [Scores on the Doors](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8). The contract was incredibly challenging being written in a relatively new language with no help from seniors. However, it eventually got completed and I can be proud to say that after even less than a year of coding I had managed to release a production iOS app.
+After MA I undertook a Swift contract to build an iOS app called [Scores on the Doors](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8). The contract was incredibly challenging being written in a relatively new language with no help from seniors. However, I can now be proud to say that after even less than a year of coding I managed to release a production iOS app.
 
-Working solo on the contract for a few months highlighted how important working in a team is for me. I'm now looking to progress into a team environment, preferably doing full stack web using JavaScript, with opportunities to contribute to larger projects and receive mentoring from seniors. 
+Working solo on a contract for a few months only served to highlight how important working in a team is for me. I'm now looking to progress into a team environment doing full stack JavaScript, with opportunities to contribute to larger projects, bounce ideas off my peers and receive mentoring from seniors. 
 
 
 ## Code Examples
