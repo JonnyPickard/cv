@@ -85,14 +85,14 @@ Working solo on a contract for a few months only served to highlight how importa
 - Music production/ sound engineering with various different DAW’s.
 - Mixing and mastering of multiple genres of music.
 
-#### Art / Design
+#### Art/ Design
 
-- Profecient with Adobe Photoshop and Illustrator.
+- Proficient with Adobe Photoshop and Illustrator.
 
 ## Interests
 
-- Gym / Fitness / Weightlifting.
+- Gym/ Fitness/ Weightlifting.
 - Socialising.
-- Electronic music production / Djing.
+- Electronic music production/ Djing.
 - Gaming.
 - Rugby.
