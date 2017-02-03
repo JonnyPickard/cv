@@ -15,27 +15,20 @@ Working solo on a contract for a few months only served to highlight how importa
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-|[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift / Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect, XCTestCase. |
-|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) | Twitter keyword sentiment analysis using the Twitter API. | Ruby, Rails, JavaScript, Angular, Bootstrap. |
-|[gains](https://github.com/JonnyPickard/gains)| Instagram clone for gym goers. | NodeJS, Express, Mongodb/ Mongoose, Mocha, Chai, ZombieJS, Passport, NightwatchJS, Selenium Webdriver, TravisCI, AWS. |
-| [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby, Rails, AWS3, Bootstrap. |
+|[FoodHygiene - V3](https://itunes.apple.com/gb/app/food-hygiene/id378087298?mt=8)| Pulls and displays data from the SOTD JSON API regarding businesses food hygiene ratings.| Swift/ Xcode, CoreLocation, GoogleMaps SDK, Google Firebase, CocoaPods, AlamoFire, SwiftyJSON & Itunes Connect, sqlite, XCTestCase. |
+|[Gains](https://github.com/JonnyPickard/gains)| Instagram clone for gym goers. | NodeJS, Express, Mongodb/ Mongoose, Mocha, Chai, ZombieJS, Passport, NightwatchJS, Selenium Webdriver, TravisCI, Heroku, AWS, Bootstrap, HTML, CSS. |
+|[Does-it-suck?](https://github.com/JonnyPickard/crowdsource-due-diligence) |  Twitter keyword sentiment analysis using the Twitter API. Final project at MA. 100% Pair programming. | Ruby, Rails, AngularJS, NodeJS, Bootstrap, Rspec, Jasmine, Karma, Protractor. |
+| [Miaowster](https://github.com/JonnyPickard/miaowster) | Social picture sharing for cats. | Ruby on Rails, ActiveRecord with postgresql, Paperclip, Omniauth, Devise, HTML, ERB, CSS, AWS3, Bootstrap, Rspec, Capybara, factorygirl, shoulda matchers. |
 
-## Code Skills
-
-| Technologies Used |  |
-|------------|----------|
-| Swift | Xcode, XCTestCase, Nimble, GoogleMapsSDK, AlamoFire, SwiftyJSON, ItunesConnect.|
-| JavaScript | NodeJS, ExpressJS, AngularJS, passport, Karma, Protractor, Jasmine, Mocha, Chai, Yeoman, Grunt, Bower, NPM, bcrypt. |
-| Ruby | Rails, RSpec, Sinatra, Capybara, FactoryGirl, RVM, devise, OAuth. |
-| Databases | SQL, postresql, sqlite3, mongoDB, elasticsearch, ActiveRecord, DataMapper, Mongoose, Sqlite.swift. |
-| Front end | HTML5, CSS3, Twitter Bootstrap, JavaScript & jQuery.|
-| Other services | Git, Heroku, WaffleIO, AWS, BitBucket. |
+## Setup
+ 
+- Macbook Pro 2015, MacOS, bash unix shell with iTerm, atom.io for my IDE.  
 
 ## Experience
 
 **TransparencyData Ltd** - (June 2016 - September 2016)
 
-*Remote freelance iOS Developer - SOTD FoodHygiene app*
+*Remote freelance iOS Developer - SOTD FoodHygiene app.*
 
 **Codebar** - (April 2016)
 
@@ -72,8 +65,8 @@ Working solo on a contract for a few months only served to highlight how importa
 #### University of Portsmouth - (September 2011 - June 2014)
 
 *Biological Sciences (BSc) - 2:1*
-- Genetics, Developmental Biochemistry and Marine.
-- Research Skills. Scientific writing. Logical thinking and an eye for detail.
+- Genetics, Developmental Biology, Biochemistry, Biotechnology and Marine Biology.
+- Research Skills. Scientific writing. Problem solving, experimenting and logical thinking. Developing a strong eye for detail.
 
 #### Latymer Upper School -     (September 2004 - June 2010)
 
