@@ -1,9 +1,8 @@
-<center>Jonny Pickard</center>
-==============================
+# Jonny Pickard
 
-<center>[Skills](#skills) | [Current Projects](#projects) |  [Background](#background) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)</center>  
+[Skills](#skills) | [Current Projects](#projects) |  [Background](#background) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-A highly passionate junior full stack web & mobile developer looking for a new role in an agile, test driven, team environment. With multiple interests currently focused on JavaScript frameworks and CI.
+A highly passionate junior full stack web & mobile developer currently working with Node, GoLang and React!
 
 ***
 
